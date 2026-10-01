@@ -3,10 +3,10 @@
 > **Topics:** `web-scraping` `tender-tracker` `procurement` `rfp` `automation` `arabic-scraper` `business-intelligence`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/tender-opportunity-tracker/releases/tag/v1.0.0)
-[![CI/CD Pipeline](https://github.com/MobileConduit/tender-opportunity-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/tender-opportunity-tracker/actions)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/tender-opportunity-tracker/releases/tag/v1.0.0)
+[![CI/CD Pipeline](https://github.com/shadialhasan/tender-opportunity-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/tender-opportunity-tracker/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![RFP & Tenders](https://img.shields.io/badge/Domain-Procurement%20%7C%20RFP-blue.svg)](https://github.com/MobileConduit)
+[![RFP & Tenders](https://img.shields.io/badge/Domain-Procurement%20%7C%20RFP-blue.svg)](https://github.com/shadialhasan)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://python.org)
 
 Automated web scraper, metadata extractor, and opportunity tracker designed to monitor government tenders, sovereign fund bids, and corporate RFPs with structured Arabic metadata extraction, JSON filtering, and automated Telegram alerting.
@@ -102,7 +102,7 @@ Configuration variables:
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/tender-opportunity-tracker.git
+git clone https://github.com/shadialhasan/tender-opportunity-tracker.git
 cd tender-opportunity-tracker
 pip install -r requirements.txt
 ```
@@ -150,7 +150,7 @@ All 13 automated unit tests cover scraper extraction, deduplication, UTF-8 Arabi
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
