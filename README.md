@@ -1,5 +1,8 @@
 # 📑 tender-opportunity-tracker
 
+> **Topics:** `web-scraping` `tender-tracker` `procurement` `rfp` `automation` `arabic-scraper` `business-intelligence`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/tender-opportunity-tracker/releases/tag/v1.0.0)
 [![CI/CD Pipeline](https://github.com/MobileConduit/tender-opportunity-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/tender-opportunity-tracker/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
