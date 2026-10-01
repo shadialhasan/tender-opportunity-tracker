@@ -1,1 +1,2 @@
-# Standard library
+# Zero runtime dependencies (standard library)
+pytest>=8.0.0
