@@ -1,5 +1,6 @@
 # 📑 tender-opportunity-tracker
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/tender-opportunity-tracker/releases/tag/v1.0.0)
 [![CI/CD Pipeline](https://github.com/MobileConduit/tender-opportunity-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/tender-opportunity-tracker/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![RFP & Tenders](https://img.shields.io/badge/Domain-Procurement%20%7C%20RFP-blue.svg)](https://github.com/MobileConduit)
@@ -92,6 +93,16 @@ Configuration variables:
 | `TENDER_PORTAL_URL` | Target procurement endpoint or feed URL | Optional |
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/tender-opportunity-tracker.git
+cd tender-opportunity-tracker
+pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 
